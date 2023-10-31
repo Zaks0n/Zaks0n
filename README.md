@@ -4,7 +4,7 @@
 
 - 🔭 I’m a **Fullstack Developer**
 
-- 🌱 I’m good with **MEAN Stack**
+- 🌱 I’m good with **MERN Stack**
 
 - 👯 I’m looking to collaborate on **any remote opportunity**
 
