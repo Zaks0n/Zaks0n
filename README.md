@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
 
-- 🔭 I’m currently working on **becoming a frontend developer**
+- 🔭 I’m a **Fullstack Developer**
 
-- 🌱 I’m currently learning **ReactJs, React Native**
+- 🌱 I’m good with **MEAN Stack**
 
 - 👯 I’m looking to collaborate on **any remote opportunity**
 
